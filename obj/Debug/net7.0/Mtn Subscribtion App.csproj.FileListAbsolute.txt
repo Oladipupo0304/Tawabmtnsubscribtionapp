@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\bin\Debug\net7.0\Mtn Subscribtion App.exe
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\bin\Debug\net7.0\Mtn Subscribtion App.deps.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\bin\Debug\net7.0\Mtn Subscribtion App.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\bin\Debug\net7.0\Mtn Subscribtion App.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\bin\Debug\net7.0\Mtn Subscribtion App.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\refint\Mtn Subscribtion App.dll
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.pdb
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\Mtn Subscribtion App.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\CSharpeproject\Mtn Subscribtion App\obj\Debug\net7.0\ref\Mtn Subscribtion App.dll
